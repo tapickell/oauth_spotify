@@ -15,7 +15,7 @@ var cookieParser = require('cookie-parser');
 var client_id = "4a205f0bb7554a5fbec48af49a9dc716"; // Your client id
 var client_secret = "dd9efdfba72141c59c5d02ae1c46e440"; // Your secret
 // var redirect_uri = 'http://localhost:8888/callback'; // Or Your redirect uri
-var redirect_uri = 'https://secure-tundra-31608.herokuapp.com/callback'; // Or Your redirect uri
+var redirect_uri = 'https://cryptic-scrubland-84885.herokuapp.com/callback'; // Or Your redirect uri
 
 /**
  * Generates a random string containing numbers and letters
